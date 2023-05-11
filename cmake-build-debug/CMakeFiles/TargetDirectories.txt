@@ -1,0 +1,3 @@
+C:/Users/roman/Desktop/proiectSDA/cmake-build-debug/CMakeFiles/proiectSDA.dir
+C:/Users/roman/Desktop/proiectSDA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/roman/Desktop/proiectSDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
